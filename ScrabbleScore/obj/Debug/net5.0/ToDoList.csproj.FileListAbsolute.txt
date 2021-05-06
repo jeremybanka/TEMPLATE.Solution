@@ -1,0 +1,12 @@
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csprojAssemblyReference.cache
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/jeremybanka/dojo/csharp/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
